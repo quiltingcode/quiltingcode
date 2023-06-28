@@ -14,7 +14,7 @@ I'm Kelly Hutchison, a budding frontend React developer
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="[https://linkedin.com/in/https://www.linkedin.com/in/kellyhutchison/](https://www.linkedin.com/in/kellyhutchison/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kellyhutchison/" height="30" width="40"/></a></p>
+<a href="https://www.linkedin.com/in/kellyhutchison/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kellyhutchison/" height="30" width="40"/></a></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=quiltingcode&theme=material-palenight&show_icons=true&locale=en&layout=compact" alt="quiltingcode"/></p>
 
