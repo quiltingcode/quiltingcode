@@ -1,6 +1,6 @@
 ### Hi there, I'm Kelly 👋
 
-<h1 align="center">A budding frontend React developer based in Andalucia</h1>
+<h1 align="center">A budding full stack developer based in Andalucia</h1>
 
 ![](https://komarev.com/ghpvc/?username=quiltingcode&color=ffb694&label=GitHub+Profile+Views&style=plastic)
 
