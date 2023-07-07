@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=quiltingcode&color=ffb694&label=GitHub+Profile+Views&style=plastic)
 
-- 🔭 I’m currently working on **my portfolio website**
+- 🔭 I’m currently working on **an e-commerce react website for littlemisspatchwork.com**
 - 🌱 I’m currently learning **react and react native**
 - 👯 I’m looking to collaborate on **front-end projects**
 
