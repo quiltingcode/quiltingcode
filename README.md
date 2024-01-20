@@ -1,12 +1,12 @@
 ### Hi there, I'm Kelly 👋
 
-<h1 align="center">A budding full stack developer based in Andalucia</h1>
+<h1 align="center">A full stack developer based in Andalucia</h1>
 
 ![](https://komarev.com/ghpvc/?username=quiltingcode&color=ffb694&label=GitHub+Profile+Views&style=plastic)
 
-- 🔭 I’m currently working on **an e-commerce react website for littlemisspatchwork.com**
-- 🌱 I’m currently learning **react and react native**
-- 👯 I’m looking to collaborate on **front-end projects**
+- 🔭 I’m currently working on **a printing application using flask, django REST and React for ediconnector.com**
+- 🌱 I’m currently learning about **Google Cloud Console**
+- 👯 I’m looking to collaborate on **full stack projects**
 
 - 📫 How to reach me: **kellyhutchison@hotmail.com**
 
